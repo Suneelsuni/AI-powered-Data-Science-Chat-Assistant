@@ -15,7 +15,6 @@ A **Conversational AI Chatbot** built using **Streamlit** and **Google Gemini AI
 - **Python** – Backend logic
 - **Streamlit** – Frontend UI framework
 - **Google Gemini AI** – AI-powered chatbot responses
-- **PIL (Pillow)** – Image processing
 
 ## 📌 Installation & Usage
 
